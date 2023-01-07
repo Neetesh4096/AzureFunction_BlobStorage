@@ -1,0 +1,11 @@
+{
+  "bindings": [
+    {
+      "name": "myBlob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "neetesh-container/{name}",
+      "connection": "storageaccountneete814b_STORAGE"
+    }
+  ]
+}

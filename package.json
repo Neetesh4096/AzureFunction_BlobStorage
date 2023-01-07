@@ -1,0 +1,15 @@
+{
+  "name": "task-4",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/storage-blob": "^12.7.0",
+    "csv-string": "^4.0.1",
+    "mssql": "^7.2.0"
+  },
+  "devDependencies": {}
+}
